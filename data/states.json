@@ -1,0 +1,187 @@
+[
+    {
+        "abbr": "AB",
+        "name": "Abia",
+        "capital": "Umuahia"
+    },
+    {
+         "abbr": "Ad",
+         "name": "Adamawa",
+         "capital": "Yola"
+     },
+     {
+         "abbr": "AM",
+         "name": "Akwa Ibom",
+         "capital": "Uyo"
+     },
+     {
+         "abbr": "AN",
+         "name": "Anambra" ,
+         "capital": "Akwa"  
+     },
+     {
+         "abbr": "BH",
+         "name": "Bauchi",
+         "capital": "Bauchi"
+     },
+     {
+         "abbr": "BA",
+         "name": "Bayelsa",
+         "capital": "Yenagoa"
+     },
+     {
+         "abbr": "BU",
+         "name": "Benue",
+         "capital": "Makurdi"        
+     },
+     {
+         "abbr": "BO",
+         "name": "Borno",
+         "capital": "Maiduguri"
+     },
+     {
+         "abbr": "CR",
+         "name": "Cross River",
+         "capital": "Calabar"
+     },
+     {
+         "abbr": "Da",
+         "name": "Delta",
+         "capital": "Asaba"
+     },
+     {
+        "abbr": "EB",
+        "name": "Ebonyi",
+        "capital": "Abakaliki"
+     },
+     {
+        "abbr": "ED",
+        "name": "Edo",
+        "capital": "Benin"
+     },
+     {
+        "abbr": "EI",
+        "name": "Ekiti",
+        "capital": "Ado-Ekiti"
+     },
+     {
+        "abbr": "EU",
+        "name": "Enugu",
+        "capital": "Enugu"
+     },
+     {
+        "abbr": "GE",
+        "name": "Gombe",
+        "capital": "Gombe"
+    },
+    {
+        "abbr": "IM",
+        "name": "Imo",
+        "capital": "Owerri"
+    },
+    {
+        "abbr": "JA",
+        "name": "Jigawa",
+        "capital": "Dutse"
+    },
+    {
+        "abbr": "KD",
+        "name": "Kaduna",
+        "capital": "Kaduna"
+    },
+    {
+        "abbr": "KN",
+        "name": "Kano",
+        "capital": "Kano"
+    },
+    {
+        "abbr": "KT",
+        "name": "Katsina",
+        "capital": "Katsina"
+    },
+    {
+        "abbr": "Kb",
+        "name": "Kebbi",
+        "capital": "Birnin Kebbi"
+    },
+    {
+        "abbr": "Ki",
+        "name": "Kogi",
+        "capital": "Lokoja"
+    },
+    {
+        "abbr": "Ka",
+        "name": "Kwara",
+        "capital": "Ilorin"
+    },
+    {
+         "abbr": "LA",
+         "name": "Lagos",
+         "capital": "Ikeja"
+    }, 
+    {
+         "abbr": "Na",
+         "name": "Nasarawa",
+         "capital": "Lafia"
+     },
+     {
+         "abbr": "Ni",
+         "name": "Niger",
+         "capital": "Minna"
+     },
+     {
+         "abbr": "OG",
+         "name": "Ogun",
+         "capital": "Abeokuta"
+     },
+     {
+         "abbr": "OD",
+         "name": "Ondo",
+         "capital": "Akure"
+     },
+     {
+         "abbr": "ON",
+         "name": "Osun",
+         "capital": "Oshogbo"
+     },
+     {
+         "abbr": "OY",
+         "name": "Oyo",
+         "capital": "Ibandan"
+     },
+     {
+         "abbr": "PT",
+         "name": "Plateau",
+         "capital": "Jos"
+     }, 
+     {
+         "abbr": "RS",
+         "name": "Rivers",
+         "capital": "Port Harcount"
+     },
+     {
+         "abbr": "SO",
+         "name": "Sokoto",
+         "capital": "Sokoto"
+     },
+     {
+         "abbr": "TB",
+         "name": "Taraba",
+         "capital": "Jalingo"
+     },
+     {
+         "abbr": "YB",
+         "name": "Yobe",
+         "capital": "Damaturu"
+     },
+     {
+         "abbr": "ZA",
+         "name": "Zamfara",
+         "capital": "Gusau"
+     },
+     {
+         "abbr": "FT",
+         "name": "Federal Capital Territory",
+         "capital": "Abuja"
+     }
+ ]
